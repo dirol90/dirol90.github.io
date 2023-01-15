@@ -82307,7 +82307,7 @@ a6B(a){var s=0,r=A.a3(t.H),q=this,p
 var $async$rh=A.a4(function(b,c){if(b===1)return A.a0(c,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.a7($.GS().ahk("html_data/privacy_policy_"+a.b+".html"),$async$rh)
+return A.a7($.GS().ahk("assets/html_data/privacy_policy_"+a.b+".html"),$async$rh)
 case 2:q.aq(new p.aof(q,c))
 return A.a1(null,r)}})
 return A.a2($async$rh,r)},
